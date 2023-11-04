@@ -1,0 +1,6 @@
+login php-->form -->email password--->post sorgusu server.phpye
+index.php 
+server.php--->elnen massiv 3-4 dene surname name email password
+
+email  password uygun gelirse uygun gelen password ekranda name surname yazilacaq meselen salam verdiyeva rena
+cookie yaranacq ki bes daxil oldu eger cookie yoxdursa evvelce daxil olmalidi-->index.php(form olacaq) yazilsin, eger cookie varsa ekranda yazilsinki -->login phpde yazilsinki evvel chixish etmelisiz
